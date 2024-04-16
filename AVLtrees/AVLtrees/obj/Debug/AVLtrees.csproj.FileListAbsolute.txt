@@ -1,0 +1,7 @@
+C:\Users\vchup\source\repos\AVLtrees\AVLtrees\bin\Debug\AVLtrees.exe.config
+C:\Users\vchup\source\repos\AVLtrees\AVLtrees\bin\Debug\AVLtrees.exe
+C:\Users\vchup\source\repos\AVLtrees\AVLtrees\bin\Debug\AVLtrees.pdb
+C:\Users\vchup\source\repos\AVLtrees\AVLtrees\obj\Debug\AVLtrees.csproj.AssemblyReference.cache
+C:\Users\vchup\source\repos\AVLtrees\AVLtrees\obj\Debug\AVLtrees.csproj.CoreCompileInputs.cache
+C:\Users\vchup\source\repos\AVLtrees\AVLtrees\obj\Debug\AVLtrees.exe
+C:\Users\vchup\source\repos\AVLtrees\AVLtrees\obj\Debug\AVLtrees.pdb
